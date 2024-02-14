@@ -1,0 +1,7 @@
+Go to Test.html
+Add one heading
+With background color
+Add two paragraph tags 
+add font color and 
+back ground color
+And image tag
